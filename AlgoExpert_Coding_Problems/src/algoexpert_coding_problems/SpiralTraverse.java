@@ -1,5 +1,7 @@
 //Spiral Traverse problem from AlgoExpert.io
-//Self written code with help from AlgoExpert.io solutions and video
+//Self written code with help from AlgoExpert.io solutions and video.
+//Traverse a 2D array in a spiral direction. Input is a n*m 2d array.
+//Return a 1D array with all numbers in the spiral order.
 //Joanna B. Vaklin
 
 
