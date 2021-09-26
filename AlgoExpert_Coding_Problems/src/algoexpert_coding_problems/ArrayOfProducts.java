@@ -6,7 +6,7 @@
 
 import java.util.*;
 
-public class ArrayOfProductsApproach1 {
+public class ArrayOfProducts {
   public int[] arrayOfProducts(int[] array) {
     
 		int [] left = new int[array.length];
